@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react'
 import { Col, Container } from 'react-bootstrap'
-import Video from '../../components/video/Video'
-import CategoriesBar from '../../components/categoriesBar/CategoriesBar'
+import Video from '../../components/video/video'
+import CategoriesBar from '../../components/categoriesBar/categoriesBar'
 import { useDispatch, useSelector } from 'react-redux'
 import {
    getPopularVideos,

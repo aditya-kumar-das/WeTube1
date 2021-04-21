@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from 'react'
 import { Container } from 'react-bootstrap'
 
-import Header from './components/header/Header'
-import Sidebar from './components/sidebar/Sidebar'
+import Header from './components/header/header'
+import Sidebar from './components/sidebar/sidebar'
 import HomeScreen from './screens/homeScreen/HomeScreen'
 import LoginScreen from './screens/loginScreen/LoginScreen'
 
