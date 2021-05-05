@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import { Container } from 'react-bootstrap'
+import { Container} from 'react-bootstrap'
 
 import Header from './components/header/header'
 import Sidebar from './components/sidebar/sidebar'
